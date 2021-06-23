@@ -1,8 +1,7 @@
-<h1> Hi there, I'm rytez</h1>
+<h1><img src="https://cdn.discordapp.com/attachments/856923762561122364/857083275118116884/icu454ui98.jpg" width="30"/> Hi there, I'm rytez</h1>
 
 <img align="right" alt="Rytez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rytez&theme=tokyonight&show_icons=true&hide_border=true" />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rytez&theme=tokyonight)
 - 💻 I am a young student and I live in France.
 - 🔩 I love developed
 
