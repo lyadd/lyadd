@@ -9,7 +9,6 @@
 
  <a href="https://github.com/rytez">
 
----
 
 <p align="center"> 
   Visitor count<br>
