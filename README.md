@@ -2,8 +2,6 @@
 
 <img align="right" alt="Rytez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rytez&theme=tokyonight&show_icons=true&hide_border=true" />
 
-- 💻 I am a young student and I live in France.
-- 🔩 I love developed
 
 ---
 
