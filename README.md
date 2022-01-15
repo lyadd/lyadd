@@ -8,11 +8,7 @@
  <a href="https://github.com/zeskk">
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/khddev/count.svg" />
-</p>
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/265690080826359809?theme=dark&animated=false&borderRadius=30px)](https://discord.com/users/265690080826359809) 
 ---
 
 ## My Skill Set  
@@ -66,3 +62,8 @@
 </td></tr></table>  
 
 <br/>  
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/khddev/count.svg" />
+</p>
