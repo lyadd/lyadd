@@ -1,8 +1,5 @@
 <h1><img src="https://cdn.discordapp.com/attachments/927687913628639283/930287116037025802/f70b37539cae65585720bcaa00fd6c6f.jpg" width="30"/> Hi there, I'm zesk</h1>
 
-<img align="right" alt="Rytez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rytez&theme=tokyonight&show_icons=true&hide_border=true" />
-
-
 ---
 
  <a href="https://github.com/zeskk">
