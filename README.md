@@ -4,11 +4,6 @@
 
  <a href="https://github.com/zeskk">
 
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/265690080826359809?theme=dark&animated=false&borderRadius=30px)](https://discord.com/users/861946846163370036) 
----
-
-
 ## 🌍 Programming Languages :
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
