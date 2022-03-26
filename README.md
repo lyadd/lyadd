@@ -5,7 +5,7 @@
  <a href="https://github.com/zeskk">
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/265690080826359809?theme=dark&animated=false&borderRadius=30px)](https://discord.com/users/265690080826359809) 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/265690080826359809?theme=dark&animated=false&borderRadius=30px)](https://discord.com/users/861946846163370036) 
 ---
 
 
