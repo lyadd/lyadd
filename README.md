@@ -1,8 +1,8 @@
-<h1><img src="https://cdn.discordapp.com/attachments/931739580900712558/931792364421414912/Screenshot_150.png" width="30"/> Hi there, I'm zesk</h1>
+<h1><img src="https://cdn.discordapp.com/attachments/931739580900712558/931792364421414912/Screenshot_150.png" width="30"/> Hi there, I'm lyadx</h1>
 
 ---
 
- <a href="https://github.com/zeskk">
+ <a href="https://github.com/lyadx">
 
 ## 🌍 Programming Languages :
 
