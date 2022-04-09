@@ -1,8 +1,10 @@
 <h1><img src="https://cdn.discordapp.com/attachments/940650673794613278/962406714236358726/abe0eb80a7d0467181125f749ce56ca6.jpg" width="30"/> Hi there, I'm zeskk</h1>
 
 ---
-
- <a href="https://github.com/zeskk">
+## 🖥️ My Discord :
+<a href="https://discord.com/users/861946846163370036">
+<img src="https://lanyard-profile-readme.vercel.app/api/861946846163370036?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="center" />
+</a>
 
 ## 🌍 Programming Languages :
 
