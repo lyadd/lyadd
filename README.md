@@ -1,4 +1,4 @@
-<h1><img src="https://cdn.discordapp.com/attachments/940650673794613278/962406714236358726/abe0eb80a7d0467181125f749ce56ca6.jpg" width="30"/> Hi there, I'm zeskk</h1>
+<h1> Hi there, I'm zesk</h1>
 
 ---
 ## 🖥️ My Discord :
