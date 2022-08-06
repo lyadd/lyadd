@@ -30,8 +30,6 @@
 
 ## 🎲 Connect With Me :
 <div align="center">
-<a href="https://instagram.com/y2ns.tns" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 <a href="https://github.com/zeskk" target="_blank">
 <img src=https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
