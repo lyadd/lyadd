@@ -35,10 +35,6 @@
 </a>  
 </div>  
 
-# 🎶 Music :
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zx6j7879mhcmqlc4m8j2qr2kc&cover_image=true&theme=default" /></div>  
-
-
 <br/>  
 
 <p align="center"> 
